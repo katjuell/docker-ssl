@@ -1,1 +1,1 @@
-Code for Docker/SSL tutorial
+Project code for tutorial on how to secure a containerized Node application: https://www.digitalocean.com/community/tutorials/how-to-secure-a-containerized-node-js-application-with-nginx-let-s-encrypt-and-docker-compose
